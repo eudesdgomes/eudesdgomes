@@ -1,5 +1,5 @@
 
-## Olá pessoal, sou Eudes Gomes 👋
+## Olá, sou Eudes Gomes 👋
 
 Desenvolvedor Back-end especializado em C# apaixonado por criar soluções de software robustas e eficientes. Minha jornada no mundo da codificação começou com uma curiosidade que se transformou em uma carreira gratificante. Eu prospero em desafios e estou constantemente explorando novas tecnologias para aprimorar minhas habilidades.
 
