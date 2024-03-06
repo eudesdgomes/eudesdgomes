@@ -14,5 +14,5 @@ Desenvolvedor Back-end especializado em C# apaixonado por criar soluções de so
 [![Linkedin Badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](#) 
 [![Linkedin Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](#) 
 
-## Contato:
+## CONTATO:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eudesdgomes/)
