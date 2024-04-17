@@ -1,7 +1,7 @@
 
 ## Olá, sou Eudes Gomes 👋
 
-Desenvolvedor de Software Full Stack especializado em Desenvolvimento Web apaixonado por criar soluções de software robustas e eficientes. Minha jornada no mundo da codificação começou com uma curiosidade que se transformou em uma carreira gratificante. Eu prospero em desafios e estou constantemente explorando novas tecnologias para aprimorar minhas habilidades.
+Desenvolvedor Front-end especializado em Desenvolvimento Web apaixonado por criar soluções de software robustas e eficientes. Minha jornada no mundo da codificação começou com uma curiosidade que se transformou em uma carreira gratificante. Eu prospero em desafios e estou constantemente explorando novas tecnologias para aprimorar minhas habilidades.
 
 ## TECNOLOGIAS:
 [![Linkedin Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) 
