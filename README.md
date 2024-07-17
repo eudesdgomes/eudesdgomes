@@ -1,4 +1,4 @@
-<h2 align="left">Bem-vindo ao meu perfil do GitHub!</h2>
+<h2 align="left">Bem-vindo(a) ao meu perfil do GitHub!</h2>
 
 ###
 
@@ -64,7 +64,7 @@
 
 ###
 
-<p align="left">Obrigado pela visita! <br>Sinta-se à vontade para explorar meus repositórios e entrar em contato caso tenha alguma dúvida, proposta de colaboração ou  oportunidades profissionais.</p>
+<h3 align="left">Obrigado pela visita! <br>Sinta-se à vontade para explorar meus repositórios e entrar em contato caso tenha alguma dúvida, proposta de colaboração ou  oportunidades profissionais.</h3>
 
 ###
 
