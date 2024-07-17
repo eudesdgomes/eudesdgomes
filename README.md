@@ -1,4 +1,4 @@
-<h2 align="left">Bem-vindo(a) ao meu perfil do GitHub!</h2>
+<h2 align="left">Bem-vindo ao meu perfil do GitHub!</h2>
 
 ###
 
@@ -76,7 +76,7 @@
   <a href="https://www.linkedin.com/in/eudesdgomes/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="eudesdgsouza@gmail.com" target="_blank">
+  <a href="mailto:eudesdgsouza@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://api.whatsapp.com/send?phone=5587999538885" target="_blank">
