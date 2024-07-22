@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Olá, sou Eudes Gomes!</p>
+<p align="left">👋 Olá, me chamo Eudes Gomes!</p>
 
 ###
 
