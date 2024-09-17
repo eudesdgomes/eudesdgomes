@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Sou um Desenvolvedor Full Stack Python com formação em Desenvolvimento de Sistemas e uma paixão por criar soluções tecnológicas inovadoras. Com um sólido conhecimento em back-end e uma proficiência em front-end, eu construo aplicações completas e eficientes.<br><br>Sou uma pessoa dedicada e comprometida com a excelência, sempre buscando aprimorar minhas habilidades e contribuir para projetos que desafiem minha criatividade e expertise. Se você está em busca de um desenvolvedor completo e apaixonado por tecnologia, estou à disposição para explorar oportunidades que permitam contribuir para o sucesso de novos projetos.</p>
+<p align="left">Sou um Desenvolvedor back-end Python com formação em Desenvolvimento de Sistemas e uma paixão por criar soluções tecnológicas inovadoras. Com um sólido conhecimento em back-end e uma proficiência em front-end, eu construo aplicações completas e eficientes.<br><br>Sou uma pessoa dedicada e comprometida com a excelência, sempre buscando aprimorar minhas habilidades e contribuir para projetos que desafiem minha criatividade e expertise. Se você está em busca de um desenvolvedor completo e apaixonado por tecnologia, estou à disposição para explorar oportunidades que permitam contribuir para o sucesso de novos projetos.</p>
 
 ###
 
@@ -40,8 +40,6 @@
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
